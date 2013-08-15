@@ -1,0 +1,12 @@
+/**
+ * A JSON object containing useful and trending javascript frameworks.
+ */
+
+{
+	source: "https://github.com/abhijeetkpawar/lifeofjs"
+	frameworks: [{
+		name: "JQuery",
+		site-url: "http://jquery.com/",
+		git-url: "http://github.com/jquery/jquery"
+	}]
+}
