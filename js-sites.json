@@ -1,0 +1,8 @@
+{
+	source: "https://github.com/abhijeetkpawar/lifeofjs",
+	type: "site",
+	collection: [{
+		name: "Move the Web Forward",
+		url: "http://movethewebforward.org/"
+	}]
+}
