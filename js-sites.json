@@ -1,8 +1,29 @@
 {
-	source: "https://github.com/abhijeetkpawar/lifeofjs",
-	type: "site",
-	collection: [{
-		name: "Move the Web Forward",
-		url: "http://movethewebforward.org/"
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "site",
+	"collection": [{
+		"name": "Move the Web Forward",
+		"url": "http://movethewebforward.org/"
+	}, {
+		"name": "The David Walsh Blog",
+		"url": "http://davidwalsh.name/"
+	}, {
+		"name": "Javacript | MDN",
+		"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+	}, {
+		"name": "Javacript Questions | Stack Overflow",
+		"url": "http://stackoverflow.com/questions/tagged/javascript"
+	}, {
+		"name": "Paul Irish Blog",
+		"url": "http://www.paulirish.com/"
+	}, {
+		"name": "JavaScript performance playground",
+		"url": "http://jsperf.com/"
+	}, {
+		"name": "Principles of Writing Consistent, Idiomatic JavaScript",
+		"url": "https://github.com/rwaldron/idiomatic.js/"
+	}, {
+		"name": "Addy Osmani Blog",
+		"url": "http://addyosmani.com/blog/"
 	}]
 }

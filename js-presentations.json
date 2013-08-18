@@ -1,9 +1,5 @@
 {
-	source: "https://github.com/abhijeetkpawar/lifeofjs",
-	type: "book",
-	collection: [{
-		name: "Getting Closure",
-		author: "Mark Dalgleish",
-		url: "http://markdalgleish.com/presentations/gettingclosure/"
-	}]
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "book",
+	"collection": []
 }

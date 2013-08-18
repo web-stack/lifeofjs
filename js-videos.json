@@ -1,5 +1,9 @@
 {
-	source: "https://github.com/abhijeetkpawar/lifeofjs",
-	type: "video",
-	collection: []
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "video",
+	"collection": [{
+		"name": "Getting Closure - Javascript",
+		"speaker": "Mark Dalgleish",
+		"url": "http://www.youtube.com/watch?v=KRm-h6vcpxs"
+	}]
 }

@@ -1,9 +1,65 @@
 {
-	source: "https://github.com/abhijeetkpawar/lifeofjs",
-	type: "framework",
-	collection: [{
-		name: "JQuery",
-		url: "http://jquery.com/",
-		source: "http://github.com/jquery/jquery"
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "framework",
+	"collection": [{
+		"name": "JQuery",
+		"url": "http://jquery.com/",
+		"source": "http://github.com/jquery/jquery"
+	}, {
+		"name": "MooTools",
+		"url": "http://mootools.net/",
+		"source": "https://github.com/mootools/mootools-core",
+		"desc": "A compact, modular, Object-Oriented JavaScript framework"
+	}, {
+		"name": "DOJO Toolkit",
+		"url": "http://dojotoolkit.org/",
+		"source": "https://github.com/dojo/dojo"
+	}, {
+		"name": "YUI",
+		"url": "http://yuilibrary.com/",
+		"source": "https://github.com/yui/yui3",
+		"desc": "A library for building richly interactive web applications"
+	}, {
+		"name": "Node JS",
+		"url": "http://nodejs.org/",
+		"source": "https://github.com/joyent/node"
+	}, {
+		"name": "Modernizr",
+		"url": "http://modernizr.com/",
+		"source": "https://github.com/Modernizr/Modernizr",
+		"desc": "A JavaScript library that detects HTML5 and CSS3 features in the user’s browser"
+	}, {
+		"name": "Underscore JS",
+		"url": "http://underscorejs.org/",
+		"source": "https://github.com/jashkenas/underscore",
+		"desc": "A utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects."
+	}, {
+		"name": "Backbone.js",
+		"url": "http://backbonejs.org/",
+		"source": "https://github.com/jashkenas/backbone/"
+	}, {
+		"name": "Knockout JS",
+		"url": "http://knockoutjs.com/",
+		"source": "https://github.com/knockout/knockout",
+		"desc": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern"
+	}, {
+		"name": "Hogan.js",
+		"url": "http://twitter.github.io/hogan.js/",
+		"source": "https://github.com/twitter/hogan.js",
+		"desc": "JavaScript templating from Twitter"
+	}, {
+		"name": "Impress JS",
+		"url": "http://bartaz.github.io/impress.js/",
+		"source": "https://github.com/bartaz/impress.js/"
+	}, {
+		"name": "MouseTrap",
+		"url": "http://craig.is/killing/mice",
+		"source": "https://github.com/ccampbell/mousetrap",
+		"desc": "Simple library for handling keyboard shortcuts in Javascript"
+	}, {
+		"name": "Tag-it! jQuery Plugin",
+		"url": "http://aehlke.github.io/tag-it/",
+		"source": "https://github.com/aehlke/tag-it",
+		"desc": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete"
 	}]
 }

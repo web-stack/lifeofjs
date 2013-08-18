@@ -1,11 +1,11 @@
 {
-	source: "https://github.com/abhijeetkpawar/lifeofjs",
-	type: "book",
-	collection: [{
-		name: "Professional JavaScript for Web Developers",
-		author: "Nicholas C. Zakas"
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "book",
+	"collection": [{
+		"name": "Professional JavaScript for Web Developers",
+		"author": "Nicholas C. Zakas"
 	}, {
-		name: "JavaScript Patterns",
-		author: "Stoyan Stefanov"
+		"name": "JavaScript Patterns",
+		"author": "Stoyan Stefanov"
 	}]
 }
