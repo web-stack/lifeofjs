@@ -25,5 +25,8 @@
 	}, {
 		"name": "Addy Osmani Blog",
 		"url": "http://addyosmani.com/blog/"
+	}, {
+		"name": "Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012)",
+		"url": "http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/"
 	}]
 }

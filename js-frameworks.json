@@ -24,6 +24,11 @@
 		"url": "http://nodejs.org/",
 		"source": "https://github.com/joyent/node"
 	}, {
+		"name": "Socket.IO",
+		"url": "http://socket.io/",
+		"source": "https://github.com/learnboost/socket.io",
+		"desc": "Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support."
+	}, {
 		"name": "Modernizr",
 		"url": "http://modernizr.com/",
 		"source": "https://github.com/Modernizr/Modernizr",
@@ -42,6 +47,16 @@
 		"url": "http://knockoutjs.com/",
 		"source": "https://github.com/knockout/knockout",
 		"desc": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern"
+	}, {
+		"name": "AngularJS",
+		"url": "http://angularjs.org/",
+		"source": "https://github.com/angular/angular.js",
+		"desc": "Javascript MVW framework"
+	}, {
+		"name": "Meteor",
+		"url": "http://www.meteor.com/",
+		"source": "https://github.com/meteor/meteor",
+		"desc": "Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework."
 	}, {
 		"name": "Hogan.js",
 		"url": "http://twitter.github.io/hogan.js/",

@@ -7,5 +7,17 @@
 	}, {
 		"name": "JavaScript Patterns",
 		"author": "Stoyan Stefanov"
+	}, {
+		"name": "JavaScript: The Definitive Guide",
+		"author": "David Flanagan",
+		url: "http://books.google.co.in/books?id=6TAODdEIxrgC"
+	}, {
+		"name": "Secrets of the JavaScript Ninja",
+		"author": "John Resig, Bear Bibeault",
+		url: "http://books.google.co.in/books?id=ab8CPgAACAAJ"
+	}, {
+		"name": "Object-Oriented Javascript",
+		"author": "Stoyan Stefanov",
+		url: "http://books.google.co.in/books?id=v_oIIyw1vSIC"
 	}]
 }
