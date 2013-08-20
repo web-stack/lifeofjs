@@ -2,8 +2,8 @@
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
 	"type": "book",
 	"collection": [{
-		name: "Extreme JavaScript Compression With YUI Compressor",
-		author: "Nicholas C. Zakas"
-		url: "www.slideshare.net/nzakas/extreme-javascript-compression-with-yui-compressor"
+		"name": "Extreme JavaScript Compression With YUI Compressor",
+		"author": "Nicholas C. Zakas",
+		"url": "www.slideshare.net/nzakas/extreme-javascript-compression-with-yui-compressor"
 	}]
 }
