@@ -2,10 +2,6 @@
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
 	"type": "framework",
 	"collection": [{
-		"name": "JQuery",
-		"url": "http://jquery.com/",
-		"source": "http://github.com/jquery/jquery"
-	}, {
 		"name": "MooTools",
 		"url": "http://mootools.net/",
 		"source": "https://github.com/mootools/mootools-core",
@@ -24,30 +20,6 @@
 		"url": "http://nodejs.org/",
 		"source": "https://github.com/joyent/node"
 	}, {
-		"name": "Socket.IO",
-		"url": "http://socket.io/",
-		"source": "https://github.com/learnboost/socket.io",
-		"desc": "Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support."
-	}, {
-		"name": "Modernizr",
-		"url": "http://modernizr.com/",
-		"source": "https://github.com/Modernizr/Modernizr",
-		"desc": "A JavaScript library that detects HTML5 and CSS3 features in the user’s browser"
-	}, {
-		"name": "Underscore JS",
-		"url": "http://underscorejs.org/",
-		"source": "https://github.com/jashkenas/underscore",
-		"desc": "A utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects."
-	}, {
-		"name": "Backbone.js",
-		"url": "http://backbonejs.org/",
-		"source": "https://github.com/jashkenas/backbone/"
-	}, {
-		"name": "Knockout JS",
-		"url": "http://knockoutjs.com/",
-		"source": "https://github.com/knockout/knockout",
-		"desc": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern"
-	}, {
 		"name": "AngularJS",
 		"url": "http://angularjs.org/",
 		"source": "https://github.com/angular/angular.js",
@@ -58,23 +30,62 @@
 		"source": "https://github.com/meteor/meteor",
 		"desc": "Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework."
 	}, {
-		"name": "Hogan.js",
-		"url": "http://twitter.github.io/hogan.js/",
-		"source": "https://github.com/twitter/hogan.js",
-		"desc": "JavaScript templating from Twitter"
+		"name": "Ember",
+		"url": "http://emberjs.com/",
+		"source": "https://github.com/emberjs/ember.js/",
+		"desc": "A JavaScript framework for creating ambitious web applications. Features - Bindings, Computed properties, Auto-updating templates"
 	}, {
-		"name": "Impress JS",
-		"url": "http://bartaz.github.io/impress.js/",
-		"source": "https://github.com/bartaz/impress.js/"
+		"name": "Batman",
+		"url": "http://batmanjs.org/",
+		"source": "https://github.com/Shopify/batman",
+		"desc": "A framework for building rich web applications with CoffeeScript. A client-side framework for Rails developers."
 	}, {
-		"name": "MouseTrap",
-		"url": "http://craig.is/killing/mice",
-		"source": "https://github.com/ccampbell/mousetrap",
-		"desc": "Simple library for handling keyboard shortcuts in Javascript"
+		"name": "PhantomJS",
+		"url": "https://github.com/ariya/phantomjs/",
+		"source": "https://github.com/ariya/phantomjs",
+		"desc": "PhantomJS is an optimal solution for - Headless Website Testing, Screen Capture, Page Automation, Network Monitoring",
+		"tags": "testing"
 	}, {
-		"name": "Tag-it! jQuery Plugin",
-		"url": "http://aehlke.github.io/tag-it/",
-		"source": "https://github.com/aehlke/tag-it",
-		"desc": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete"
+		"name": "Jasmine",
+		"url": "http://pivotal.github.io/jasmine/",
+		"source": "https://github.com/pivotal/jasmine",
+		"desc": "Behavior Driven Development(BDD) testing framework",
+		"tags": "testing"
+	}, {
+		"name": "Mocha",
+		"url": "http://visionmedia.github.io/mocha/",
+		"source": "https://github.com/visionmedia/mocha",
+		"desc": "Simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)",
+		"tags": "testing"
+	}, {
+		"name": "QUnit",
+		"url": "http://qunitjs.com/",
+		"source": "http://github.com/jquery/qunit",
+		"tags": "testing"
+	}, {
+		"name": "Cappuccino",
+		"url": "http://www.cappuccino-project.org/",
+		"source": "https://github.com/cappuccino/cappuccino/",
+		"desc": "Web Application Framework in JavaScript and Objective-J"
+	}, {
+		"name": "Tower.js",
+		"url": "http://towerjs.org/",
+		"source": "https://github.com/tower/tower",
+		"desc": "Full Stack Web Framework for Node.js and the Browser"
+	}, {
+		"name": "SproutCore",
+		"url": "http://sproutcore.com/",
+		"source": "https://github.com/sproutcore/sproutcore/",
+		"tags": "mvc"
+	}, {
+		"name": "JavaScriptMVC",
+		"url": "http://javascriptmvc.com/",
+		"source": "https://github.com/bitovi/javascriptmvc",
+		"tags": "mvc"
+	}, {
+		"name": "Ext JS",
+		"url": "http://www.sencha.com/products/extjs/",
+		"source": "https://github.com/bitovi/javascriptmvc",
+		"tags": "mvc,ui"
 	}]
 }

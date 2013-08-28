@@ -1,0 +1,123 @@
+{
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "library",
+	"collection": [{
+		"name": "JQuery",
+		"url": "http://jquery.com/",
+		"source": "http://github.com/jquery/jquery"
+	}, {
+		"name": "JQuery UI",
+		"url": "http://jqueryui.com/",
+		"source": "https://github.com/jquery/jquery-ui",
+		"tags": "ui"
+	}, {
+		"name": "Bootstrap",
+		"url": "http://getbootstrap.com/",
+		"source": "https://github.com/twbs/bootstrap",
+		"tags": "ui"
+	}, {
+		"name": "Foundation",
+		"url": "http://foundation.zurb.com/",
+		"source": "https://github.com/zurb/foundation",
+		"tags": "ui"
+	}, {
+		"name": "jQuery Tools",
+		"url": "http://jquerytools.org/",
+		"source": "https://github.com/jquerytools/jquerytools",
+		"tags": "ui"
+	}, {
+		"name": "Socket.IO",
+		"url": "http://socket.io/",
+		"source": "https://github.com/learnboost/socket.io",
+		"desc": "Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support."
+	}, {
+		"name": "Modernizr",
+		"url": "http://modernizr.com/",
+		"source": "https://github.com/Modernizr/Modernizr",
+		"desc": "A JavaScript library that detects HTML5 and CSS3 features in the user’s browser"
+	}, {
+		"name": "Underscore JS",
+		"url": "http://underscorejs.org/",
+		"source": "https://github.com/jashkenas/underscore",
+		"desc": "A utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects."
+	}, {
+		"name": "Backbone.js",
+		"url": "http://backbonejs.org/",
+		"source": "https://github.com/jashkenas/backbone/"
+	}, {
+		"name": "Marionette",
+		"url": "http://marionettejs.com/",
+		"source": "https://github.com/marionettejs/backbone.marionette",
+		"desc": "A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications"
+	}, {
+		"name": "Knockout JS",
+		"url": "http://knockoutjs.com/",
+		"source": "https://github.com/knockout/knockout",
+		"desc": "Simplify dynamic JavaScript UIs by applying the Model-View-View Model (MVVM) pattern"
+	}, {
+		"name": "CanJS",
+		"url": "http://canjs.com/",
+		"source": "https://github.com/bitovi/canjs",
+		"desc": "REST-persistable models, basic routing, string-based templating"
+	}, {
+		"name": "Spine",
+		"url": "http://spinejs.com/",
+		"source": "https://github.com/spine/spine",
+		"desc": "Lightweight MVC library. It is kind of modified clone of Backbone (hence the name)"
+	}, {
+		"name": "Hogan.js",
+		"url": "http://twitter.github.io/hogan.js/",
+		"source": "https://github.com/twitter/hogan.js",
+		"desc": "JavaScript templating from Twitter",
+		"tags": "templating"
+	}, {
+		"name": "Mustache",
+		"url": "http://mustache.github.io/",
+		"source": "https://github.com/janl/mustache.js/",
+		"desc": "Logic-less templates with JavaScript",
+		"tags": "templating"
+	}, {
+		"name": "Handlebars",
+		"url": "http://handlebarsjs.com/",
+		"source": "http://github.com/wycats/handlebars.js/",
+		"tags": "templating"
+	}, {
+		"name": "Dust",
+		"url": "http://akdubya.github.io/dustjs/",
+		"source": "https://github.com/akdubya/dustjs",
+		"desc": "Dust is a JavaScript templating engine designed to provide a clean separation between presentation and logic without sacrificing ease of use",
+		"tags": "templating"
+	}, {
+		"name": "doT.js",
+		"url": "http://olado.github.io/doT/",
+		"source": "http://github.com/olado",
+		"desc": "concise javascript template engine for Node.js and browsers",
+		"tags": "templating"
+	}, {
+		"name": "EJS (EmbeddedJS)",
+		"url": "http://embeddedjs.com/",
+		"source": "http://code.google.com/p/embeddedjavascript/source/checkout",
+		"desc": "concise javascript template engine for Node.js and browsers",
+		"tags": "templating"
+	}, {
+		"name": "Chai",
+		"url": "http://chaijs.com/",
+		"source": "https://github.com/chaijs/chai",
+		"desc": "BDD / TDD assertion library for node and the browser",
+		"tags": "testing"
+	}, {
+		"name": "RequireJS",
+		"url": "http://requirejs.org/",
+		"source": "http://github.com/jrburke/requirejs",
+		"desc": "A file and module loader for JavaScript"
+	}, {
+		"name": "Impress JS",
+		"url": "http://bartaz.github.io/impress.js/",
+		"source": "https://github.com/bartaz/impress.js/"
+	}, {
+		"name": "MouseTrap",
+		"url": "http://craig.is/killing/mice",
+		"source": "https://github.com/ccampbell/mousetrap",
+		"desc": "Simple library for handling keyboard shortcuts in Javascript"
+	}]
+}

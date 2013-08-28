@@ -5,5 +5,9 @@
 		"name": "Getting Closure - Javascript",
 		"speaker": "Mark Dalgleish",
 		"url": "http://www.youtube.com/watch?v=KRm-h6vcpxs"
+	}, {
+		"name": "Introduction to Node.js with Ryan Dahl",
+		"speaker": "Ryan Dahl",
+		"url": "http://www.youtube.com/watch?v=jo_B4LTHi3I"
 	}]
 }

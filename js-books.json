@@ -19,5 +19,45 @@
 		"name": "Object-Oriented Javascript",
 		"author": "Stoyan Stefanov",
 		"url": "http://books.google.co.in/books?id=v_oIIyw1vSIC"
+	}, {
+		"name": "JavaScript: The Good Parts",
+		"author": "Douglas Crockford",
+		"url": "http://books.google.co.in/books?id=PXa2bby0oQ0C"
+	}, {
+		"name": "JavaScript & jQuery: The Missing Manual",
+		"author": "David Sawyer McFarland",
+		"url": "http://books.google.co.in/books?id=dAJyxUtEZLMC"
+	}, {
+		"name": "High Performance JavaScript",
+		"author": "Nicholas C. Zakas",
+		"url": "http://books.google.co.in/books?id=ED6ph4WEIoQC"
+	}, {
+		"name": "Eloquent JavaScript: A Modern Introduction to Programming",
+		"author": "Marijn Haverbeke",
+		"url": "http://eloquentjavascript.net/"
+	}, {
+		"name": "Pro JavaScript Techniques",
+		"author": "John Resig",
+		"url": "http://books.google.co.in/books?id=GgJN2CC_2s4C"
+	}, {
+		"name": "High Performance Web Sites: Essential Knowledge for Front-End Engineers",
+		"author": "Steve Souders",
+		"url": "http://stevesouders.com/hpws/"
+	}, {
+		"name": "Even Faster Web Sites",
+		"author": "Steve Souders",
+		"url": "http://stevesouders.com/efws/"
+	}, {
+		"name": "Learning JavaScript Design Patterns",
+		"author": "Addy Osmani",
+		"url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/"
+	}, {
+		"name": "jQuery in Action",
+		"author": "Bear Bibeault, Yehuda Katz",
+		"url": "http://www.manning.com/bibeault2/"
+	}, {
+		"name": "jQuery Pocket Reference",
+		"author": "David Flanagan",
+		"url": "http://books.google.co.in/books?id=qPCCUdDefdkC"
 	}]
 }

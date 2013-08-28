@@ -1,0 +1,41 @@
+{
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "tool",
+	"collection": [{
+		"name": "Eclipse IDE",
+		"url": "http://www.eclipse.org/downloads/"
+	}, {
+		"name": "JavaScript performance playground",
+		"url": "http://jsperf.com/"
+	}, {
+		"name": "Sublime Text Editor",
+		"url": "https://www.sublimetext.com/"
+	}, {
+		"name": "JSFiddle",
+		"url": "http://jsfiddle.net/"
+	}, {
+		"name": "JSApp.US",
+		"url": "http://jsapp.us/",
+		"desc": "A node.js Hosting Provider i.e. jsfiddle for Node.js programs"
+	}, {
+		"name": "Visual Event",
+		"url": "http://jsapp.us/",
+		"desc": "Open source Javascript bookmarklet which provides debugging information about events that have been attached to DOM elements"
+	}, {
+		"name": "Firebug - Firefox addon for debugging",
+		"url": "https://getfirebug.com/",
+		"desc": "Web development and debugging tool"
+	}, {
+		"name": "JSLint",
+		"url": "http://www.jslint.com/",
+		"desc": "Code Quality Tool"
+	}, {
+		"name": "YUI Compressor",
+		"url": "http://yui.github.io/yuicompressor/",
+		"desc": "JavaScript and CSS Compressor"
+	}, {
+		"name": "CodePen",
+		"url": "http://codepen.io/",
+		"desc": "HTML, CSS, and JavaScript code editor right in your browser with instant previews of the code you see and write. It's great for showing off your work and seeing what amazing things other people are doing with the web."
+	}]
+}

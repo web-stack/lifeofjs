@@ -1,0 +1,36 @@
+{
+	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"type": "feed",
+	"collection": [{
+		"name": "The David Walsh Blog",
+		"url": "http://davidwalsh.name/"
+	}, {
+		"name": "Paul Irish Blog",
+		"url": "http://www.paulirish.com/"
+	}, {
+		"name": "Addy Osmani Blog",
+		"url": "http://addyosmani.com/blog/"
+	}, {
+		"name": "Robert’s talk",
+		"url": "http://robertnyman.com/",
+		"feed": "http://feeds.feedburner.com/robertnyman",
+		"twitterId": "robertnyman"
+	}, {
+		"name": "DailyJS",
+		"url": "http://dailyjs.com/",
+		"feed": "http://feeds.feedburner.com/dailyjs",
+		"twitterId": "dailyjs"
+	}, {
+		"name": "JavaScript Weekly",
+		"url": "http://javascriptweekly.com/",
+		"feed": "http://javascriptweekly.com/rss"
+	}, {
+		"name": "Javacript Questions | Stack Overflow",
+		"url": "http://stackoverflow.com/questions/tagged/javascript"
+	}, {
+		"name": "Stoyan's web dev blog",
+		"url": "http://www.phpied.com/",
+		"feed": "http://www.phpied.com/feed/",
+		"twitterId": "stoyanstefanov"
+	}]
+}
