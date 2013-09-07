@@ -6,8 +6,36 @@
 		"speaker": "Mark Dalgleish",
 		"url": "http://www.youtube.com/watch?v=KRm-h6vcpxs"
 	}, {
+		"name": "10 Things I Learned From the jQuery Source",
+		"speaker": "Paul Irish",
+		"url": "http://vimeo.com/12529436"
+	}, {
+		"name": "11 More Things I Learned From the jQuery Source",
+		"speaker": "Paul Irish",
+		"url": "http://vimeo.com/18901514"
+	}, {
 		"name": "Introduction to Node.js with Ryan Dahl",
 		"speaker": "Ryan Dahl",
 		"url": "http://www.youtube.com/watch?v=jo_B4LTHi3I"
+	}, {
+		"name": "Paul Irish on Web Application Development Workflow",
+		"speaker": "Paul Irish",
+		"url": "http://youtu.be/vDbbz-BdyYc"
+	}, {
+		"name": "Douglas Crockford: The JavaScript Programming Language",
+		"speaker": "Douglas Crockford",
+		"url": "http://youtu.be/v2ifWcnQs6M"
+	}, {
+		"name": "Douglas Crockford: Advanced JavaScript",
+		"speaker": "Douglas Crockford",
+		"url": "http://youtu.be/DwYPG6vreJg"
+	}, {
+		"name": "Crockford on JavaScript - Volume 1: The Early Years",
+		"speaker": "Douglas Crockford",
+		"url": "http://youtu.be/JxAXlJEmNMg"
+	}, {
+		"name": "Crockford on JavaScript - Act III: Function the Ultimate",
+		"speaker": "Douglas Crockford",
+		"url": "http://youtu.be/ya4UHuXNygM"
 	}]
 }

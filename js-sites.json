@@ -28,7 +28,7 @@
 		"url": "http://tech.burningbird.net/article/node-references-and-resources"
 	}, {
 		"name": "Template Engine Chooser",
-		"url": "http://tech.burningbird.net/article/node-references-and-resources"
+		"url": "http://garann.github.io/template-chooser/"
 	}, {
 		"name": "The client-side templating throwdown: mustache, handlebars, dust.js, and more",
 		"url": "http://engineering.linkedin.com/frontend/client-side-templating-throwdown-mustache-handlebars-dustjs-and-more"
@@ -41,5 +41,32 @@
 	}, {
 		"name": "Pineapple - Web tutorials and resources",
 		"url": "http://pineapple.io/tags/javascript"
+	}, {
+		"name": "Standard ECMA-262",
+		"url": "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
+		"desc": "Official documentation on Ecmascript 5"
+	}, {
+		"name": "Journey Through The JavaScript MVC Jungle",
+		"url": "http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/"
+	}, {
+		"name": "TodoMVC",
+		"url": "http://todomvc.com/",
+		"desc": "Helping you select an MV* framework"
+	}, {
+		"name": "Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()",
+		"url": "http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html"
+	}, {
+		"name": "ECMAScript 5 compatibility table",
+		"url": "http://kangax.github.io/es5-compat-table/"
+	}, {
+		"name": "jQuery Quick API Reference",
+		"url": "http://oscarotero.com/jquery/"
+	}, {
+		"name": "CDNJS",
+		"url": "http://cdnjs.com/",
+		"desc": "An open source CDN for Javascript and CSS"
+	}, {
+		"name": "How to Keep Upto date on Front-end technologies",
+		"url": "http://uptodate.frontendrescue.org/"
 	}]
 }

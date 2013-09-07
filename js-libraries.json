@@ -119,5 +119,15 @@
 		"url": "http://craig.is/killing/mice",
 		"source": "https://github.com/ccampbell/mousetrap",
 		"desc": "Simple library for handling keyboard shortcuts in Javascript"
+	}, {
+		"name": "SJCL - Stanford Javascript Crypto Library",
+		"url": "http://crypto.stanford.edu/sjcl/",
+		"source": "https://github.com/bitwiseshiftleft/sjcl",
+		"desc": "A secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript"
+	}, {
+		"name": "XDomain ",
+		"url": "http://jpillora.com/xdomain/",
+		"source": "https://github.com/jpillora/xdomain",
+		"desc": "A pure JavaScript CORS alternative"
 	}]
 }

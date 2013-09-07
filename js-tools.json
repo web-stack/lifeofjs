@@ -30,6 +30,10 @@
 		"url": "http://www.jslint.com/",
 		"desc": "Code Quality Tool"
 	}, {
+		"name": "JSHint",
+		"url": "http://www.jshint.com/",
+		"desc": "Code Quality Tool"
+	}, {
 		"name": "YUI Compressor",
 		"url": "http://yui.github.io/yuicompressor/",
 		"desc": "JavaScript and CSS Compressor"
