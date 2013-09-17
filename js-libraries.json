@@ -34,7 +34,7 @@
 		"name": "Modernizr",
 		"url": "http://modernizr.com/",
 		"source": "https://github.com/Modernizr/Modernizr",
-		"desc": "A JavaScript library that detects HTML5 and CSS3 features in the user’s browser"
+		"desc": "A JavaScript library that detects HTML5 and CSS3 features in the user's browser"
 	}, {
 		"name": "Underscore JS",
 		"url": "http://underscorejs.org/",
@@ -125,9 +125,39 @@
 		"source": "https://github.com/bitwiseshiftleft/sjcl",
 		"desc": "A secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript"
 	}, {
-		"name": "XDomain ",
+		"name": "XDomain",
 		"url": "http://jpillora.com/xdomain/",
 		"source": "https://github.com/jpillora/xdomain",
 		"desc": "A pure JavaScript CORS alternative"
+	}, {
+		"name": "Esprimo",
+		"url": "http://esprima.org/",
+		"source": "https://github.com/ariya/esprima",
+		"desc": "ECMAScript parsing infrastructure for multipurpose analysis"
+	}, {
+		"name": "BenchmarkJS",
+		"url": "http://benchmarkjs.com/",
+		"source": "https://github.com/bestiejs/benchmark.js",
+		"desc": "A Benchmarking library"
+	}, {
+		"name": "Bonsai",
+		"url": "http://bonsaijs.org/",
+		"source": "https://github.com/uxebu/bonsai",
+		"desc": "A graphics library and renderer"
+	}, {
+		"name": "es5-shim",
+		"url": "https://github.com/kriskowal/es5-shim",
+		"source": "https://github.com/kriskowal/es5-shim",
+		"desc": "ECMAScript 5 compatibility shims for legacy JavaScript engines"
+	}, {
+		"name": "EverCookie",
+		"url": "http://samy.pl/evercookie/",
+		"source": "https://github.com/samyk/evercookie",
+		"desc": "An API that produces extremely persistent cookies in a browser. Its goal is to identify a client even after they've removed standard cookies, Flash cookies (Local Shared Objects or LSOs), and others."
+	}, {
+		"name": "MathJS",
+		"url": "http://mathjs.org/",
+		"source": "https://github.com/josdejong/mathjs",
+		"desc": "An extensive math library for JavaScript and Node.js"
 	}]
 }

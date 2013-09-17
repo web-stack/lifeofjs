@@ -4,6 +4,26 @@
 	"collection": [{
 		"name": "Extreme JavaScript Compression With YUI Compressor",
 		"author": "Nicholas C. Zakas",
-		"url": "www.slideshare.net/nzakas/extreme-javascript-compression-with-yui-compressor"
+		"url": "http://www.slideshare.net/nzakas/extreme-javascript-compression-with-yui-compressor"
+	}, {
+		"name": "jQuery Proven Performance Tips & Tricks",
+		"author": "Addy Osmani",
+		"url": "http://www.slideshare.net/AddyOsmani/jquery-proven-performance-tips-tricks"
+	}, {
+		"name": "How To Stay Up To Date on Web Technology",
+		"author": "Chris Coyier",
+		"url": "https://speakerdeck.com/chriscoyier/how-to-stay-up-to-date-on-web-technology"
+	}, {
+		"name": "Testing Mobile JavaScript",
+		"author": "John Resig",
+		"url": "http://www.slideshare.net/jeresig/testing-mobile-javascript"
+	}, {
+		"name": "JavaScript + Jenkins = Winning!",
+		"author": "Eric Wendelin",
+		"url": "http://www.slideshare.net/emwendelin/javascript-ci"
+	}, {
+		"name": "Client-side MVC with Backbone.js",
+		"author": "Igloo Lab, Michele Bertoli",
+		"url": "http://www.slideshare.net/iloveigloo/clientside-mvc-with-backbonejs"
 	}]
 }

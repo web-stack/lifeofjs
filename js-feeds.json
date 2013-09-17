@@ -3,15 +3,21 @@
 	"type": "feed",
 	"collection": [{
 		"name": "The David Walsh Blog",
-		"url": "http://davidwalsh.name/"
+		"url": "http://davidwalsh.name/",
+		"feed": "http://davidwalsh.name/feed",
+		"twitterId": "davidwalshblog"
 	}, {
 		"name": "Paul Irish Blog",
-		"url": "http://www.paulirish.com/"
+		"url": "http://www.paulirish.com/",
+		"feed": "http://feeds.feedburner.com/paul-irish",
+		"twitterId": "paul_irish"
 	}, {
 		"name": "Addy Osmani Blog",
-		"url": "http://addyosmani.com/blog/"
+		"url": "http://addyosmani.com/blog/",
+		"feed": "http://feeds.feedburner.com/addyosmani",
+		"twitterId": "addyosmani"
 	}, {
-		"name": "Robert’s talk",
+		"name": "Robert's talk",
 		"url": "http://robertnyman.com/",
 		"feed": "http://feeds.feedburner.com/robertnyman",
 		"twitterId": "robertnyman"
@@ -26,7 +32,8 @@
 		"feed": "http://javascriptweekly.com/rss"
 	}, {
 		"name": "Javacript Questions | Stack Overflow",
-		"url": "http://stackoverflow.com/questions/tagged/javascript"
+		"url": "http://stackoverflow.com/questions/tagged/javascript",
+		"feed": "http://stackoverflow.com/feeds/tag?tagnames=javascript&sort=newest"
 	}, {
 		"name": "Stoyan's web dev blog",
 		"url": "http://www.phpied.com/",

@@ -68,5 +68,25 @@
 	}, {
 		"name": "How to Keep Upto date on Front-end technologies",
 		"url": "http://uptodate.frontendrescue.org/"
+	}, {
+		"name": "Frontend Tools",
+		"url": "http://fredsarmento.me/frontend-tools/"
+	}, {
+		"name": "Every javascript project you should be looking into*",
+		"url": "http://www.javascriptoo.com/"
+	}, {
+		"name": "JSDB.io - The Database of JavaScript Libraries",
+		"url": "http://www.jsdb.io/"
+	}, {
+		"name": "Custom Elements - A Web Components Gallery for Modern Web Apps",
+		"url": "http://customelements.io/"
+	}, {
+		"name": "The Toolbox",
+		"url": "http://thetoolbox.cc/",
+		"desc": "A collection of the best time-saving apps, tools, and widgets from around the web."
+	}, {
+		"name": "Code Wars",
+		"url": "http://www.codewars.com/",
+		"desc": "Achieve code mastery through challenge. Designed to improve ability and brain performance, they also help strengthen your coding skills and technique."
 	}]
 }
