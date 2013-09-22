@@ -159,5 +159,20 @@
 		"url": "http://mathjs.org/",
 		"source": "https://github.com/josdejong/mathjs",
 		"desc": "An extensive math library for JavaScript and Node.js"
+	}, {
+		"name": "Lo-Dash",
+		"url": "http://lodash.com/",
+		"source": "https://github.com/lodash/lodash",
+		"desc": "A utility library delivering consistency, customization, performance, and extras"
+	}, {
+		"name": "TogetherJS",
+		"url": "https://togetherjs.com",
+		"source": "https://github.com/mozilla/togetherjs",
+		"desc": "A service for your website that makes it surprisingly easy to collaborate in real-time"
+	}, {
+		"name": "Rainbow",
+		"url": "http://craig.is/making/rainbows/",
+		"source": "https://github.com/ccampbell/rainbow",
+		"desc": "Simple syntax highlighting library written in javascript"
 	}]
 }

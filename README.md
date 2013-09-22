@@ -1,8 +1,11 @@
 Life of JS
 ========
 
-A collection of not all but awesome resources and frameworks of JavaScript in a programmatically manageable JSON format
+A collection of not all but awesome resources about JavaScript in a programmatically manageable JSON format
+
 Note: This is a live document and efforts to improving the collection are always welcome.
+
+Live Site: [http://lifeofjs.com](http://www.lifeofjs.com)
 
 API
 ===
