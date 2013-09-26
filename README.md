@@ -17,7 +17,7 @@ Every book can have following properties -
 * name: Full title of the book
 * author: Author(s) of the book
 * url: Official URL of the book OR url of the page where information about the book can be obtained
-* seller: URL of the book on a shopping site (primarily Amazon)
+* isbn: 13 digit isbn number of the book
 * tags: Tags to categorize the Book.
 
 
