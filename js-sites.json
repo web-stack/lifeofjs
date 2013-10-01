@@ -12,7 +12,6 @@
 		"url": "http://stackoverflow.com/questions/tagged/javascript"
 	}, {
 		"name": "Crockford on JavaScript: A Public Lecture Series at Yahoo!",
-		"speaker": "Douglas Crockford",
 		"url": "http://www.yuiblog.com/crockford/"
 	}, {
 		"name": "Principles of Writing Consistent, Idiomatic JavaScript",

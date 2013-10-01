@@ -174,5 +174,25 @@
 		"url": "http://craig.is/making/rainbows/",
 		"source": "https://github.com/ccampbell/rainbow",
 		"desc": "Simple syntax highlighting library written in javascript"
+	}, {
+		"name": "Highlight.js",
+		"url": "http://softwaremaniacs.org/soft/highlight/en/",
+		"source": "https://github.com/isagalaev/highlight.js",
+		"desc": "Javascript Syntax highlighter - knows 54 languages and is bundled with 26 style themes"
+	}, {
+		"name": "SignalR",
+		"url": "http://signalr.net/",
+		"source": "https://github.com/SignalR/SignalR",
+		"desc": "Incredibly simple real-time web for .NET"
+	}, {
+		"name": "Three.js",
+		"url": "http://threejs.org/",
+		"source": "https://github.com/mrdoob/three.js/",
+		"desc": "Lightweight 3D library with a very low level of complexity"
+	}, {
+		"name": "Q",
+		"url": "http://documentup.com/kriskowal/q/",
+		"source": "https://github.com/kriskowal/q",
+		"desc": "A tool for making and composing asynchronous promises in JavaScript"
 	}]
 }
