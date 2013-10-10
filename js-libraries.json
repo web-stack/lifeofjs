@@ -194,5 +194,15 @@
 		"url": "http://documentup.com/kriskowal/q/",
 		"source": "https://github.com/kriskowal/q",
 		"desc": "A tool for making and composing asynchronous promises in JavaScript"
+	}, {
+		"name": "Chosen",
+		"url": "http://harvesthq.github.io/chosen/",
+		"source": "https://github.com/harvesthq/chosen",
+		"desc": "Chosen is a library for making long, unwieldy select boxes more friendly"
+	}, {
+		"name": "pdf.js",
+		"url": "https://github.com/mozilla/pdf.js",
+		"source": "https://github.com/mozilla/pdf.js",
+		"desc": "PDF Reader in JavaScript"
 	}]
 }

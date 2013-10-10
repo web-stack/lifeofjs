@@ -37,5 +37,9 @@
 		"name": "Crockford on JavaScript - Act III: Function the Ultimate",
 		"speaker": "Douglas Crockford",
 		"url": "http://youtu.be/ya4UHuXNygM"
+	}, {
+		"name": "1024+ Seconds of JS Wizardry -- JSConf EU 2013",
+		"speaker": "Martin Kleppe",
+		"url": "http://www.youtube.com/watch?v=RTxtiLp1C8Y"
 	}]
 }

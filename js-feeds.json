@@ -44,5 +44,10 @@
 		"url": "http://www.bennadel.com/",
 		"feed": "http://www.bennadel.com/index.cfm?event=blog.rss",
 		"twitterId": "bennadel"
+	}, {
+		"name": "Reddit Javascript",
+		"url": "http://www.reddit.com/r/javascript/",
+		"feed": "http://www.reddit.com/r/javascript/.rss",
+		"twitterId": "javascript_news"
 	}]
 }

@@ -3,19 +3,23 @@
 	"type": "site",
 	"collection": [{
 		"name": "Move the Web Forward",
-		"url": "http://movethewebforward.org/"
+		"url": "http://movethewebforward.org/",
+		"desc": "Community efforts to spread and contribute in knowledge about web with the aim of making web awesome"
 	}, {
 		"name": "Javacript | MDN",
-		"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+		"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+		"desc": "Documentation on JavaScript by Mozilla Development Network"
 	}, {
 		"name": "Javacript Questions | Stack Overflow",
-		"url": "http://stackoverflow.com/questions/tagged/javascript"
+		"url": "http://stackoverflow.com/questions/tagged/javascript",
+		"desc": "Widely used and community maintained question-answer forum"
 	}, {
 		"name": "Crockford on JavaScript: A Public Lecture Series at Yahoo!",
 		"url": "http://www.yuiblog.com/crockford/"
 	}, {
 		"name": "Principles of Writing Consistent, Idiomatic JavaScript",
-		"url": "https://github.com/rwaldron/idiomatic.js/"
+		"url": "https://github.com/rwaldron/idiomatic.js/",
+		"desc": "Living document on GitHub to list out techniques about writing consistent, idiomatic JavaScript"
 	}, {
 		"name": "Rich JavaScript Applications - the Seven Frameworks (Throne of JS, 2012)",
 		"url": "http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/"
@@ -39,14 +43,16 @@
 		"url": "http://jsbooks.revolunet.com/"
 	}, {
 		"name": "Pineapple - Web tutorials and resources",
-		"url": "http://pineapple.io/tags/javascript"
+		"url": "http://pineapple.io/tags/javascript",
+		"desc": "Hub of Tutorials, Tools and Assets for developers and designers"
 	}, {
 		"name": "Standard ECMA-262",
 		"url": "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
 		"desc": "Official documentation on Ecmascript 5"
 	}, {
 		"name": "Journey Through The JavaScript MVC Jungle",
-		"url": "http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/"
+		"url": "http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/",
+		"desc": "A post by Addy Osmanigiving the thorough analysis about MVC and libraries/frameworks revolving around it"
 	}, {
 		"name": "TodoMVC",
 		"url": "http://todomvc.com/",
@@ -69,7 +75,8 @@
 		"url": "http://uptodate.frontendrescue.org/"
 	}, {
 		"name": "Frontend Tools",
-		"url": "http://fredsarmento.me/frontend-tools/"
+		"url": "http://fredsarmento.me/frontend-tools/",
+		"desc": "A listing of tools useful for front end development"
 	}, {
 		"name": "Every javascript project you should be looking into*",
 		"url": "http://www.javascriptoo.com/"

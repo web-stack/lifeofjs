@@ -78,5 +78,9 @@
 		"name": "Book of Speed [Online]",
 		"author": "Stoyan Stefanov",
 		"url": "http://www.bookofspeed.com"
+	}, {
+		"name": "JavaScript Allonge [Ebook]",
+		"author": "Reginald Braithwaite",
+		"url": "https://leanpub.com/javascript-allonge"
 	}]
 }

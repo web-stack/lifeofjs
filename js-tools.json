@@ -3,23 +3,27 @@
 	"type": "tool",
 	"collection": [{
 		"name": "Eclipse IDE",
-		"url": "http://www.eclipse.org/downloads/"
+		"url": "http://www.eclipse.org/downloads/",
+		"desc": "A project aiming to provide a universal toolset for development"
 	}, {
-		"name": "JavaScript performance playground",
-		"url": "http://jsperf.com/"
+		"name": "JavaScript Performance playground",
+		"url": "http://jsperf.com/",
+		"desc": "jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks"
 	}, {
 		"name": "Sublime Text Editor",
-		"url": "https://www.sublimetext.com/"
+		"url": "https://www.sublimetext.com/",
+		"desc": "A sophisticated text editor for code, markup and prose comprised with the slick user interface, extraordinary features and amazing performance."
 	}, {
 		"name": "JSFiddle",
-		"url": "http://jsfiddle.net/"
+		"url": "http://jsfiddle.net/",
+		"desc": "An online playground for your JavaScript, HTML, CSS"
 	}, {
 		"name": "JSApp.US",
 		"url": "http://jsapp.us/",
-		"desc": "A node.js Hosting Provider i.e. jsfiddle for Node.js programs"
+		"desc": "A node.js Hosting Provider (Similar to jsfiddle for Node.js programs)"
 	}, {
 		"name": "Visual Event",
-		"url": "http://jsapp.us/",
+		"url": "http://www.sprymedia.co.uk/article/visual+event+2",
 		"desc": "Open source Javascript bookmarklet which provides debugging information about events that have been attached to DOM elements"
 	}, {
 		"name": "Firebug - Firefox addon for debugging",
@@ -32,7 +36,7 @@
 	}, {
 		"name": "JSHint",
 		"url": "http://www.jshint.com/",
-		"desc": "Code Quality Tool"
+		"desc": "A community-driven tool to detect errors and potential problems in JavaScript code and to enforce your team's coding conventions"
 	}, {
 		"name": "YUI Compressor",
 		"url": "http://yui.github.io/yuicompressor/",
