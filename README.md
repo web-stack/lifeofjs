@@ -71,7 +71,7 @@ Every feed can have following properties -
 * name: Title of the web site
 * url: URL of the blog or twitter profile or similar feeder.
 * feed: URL of the RSS or ATOM feed
-* twitterId: Id of the twitter profile
+* twitterId: Screen name of the twitter profile
 * tags: Tags to categorize the feed.
 
 

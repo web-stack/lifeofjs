@@ -49,5 +49,9 @@
 		"url": "http://www.reddit.com/r/javascript/",
 		"feed": "http://www.reddit.com/r/javascript/.rss",
 		"twitterId": "javascript_news"
+	}, {
+		"name": "The Javascript Show [Podcast]",
+		"url": "http://javascriptshow.com/",
+		"feed": "http://feeds.feedburner.com/the-javascript-show"
 	}]
 }

@@ -94,5 +94,13 @@
 		"name": "Code Wars",
 		"url": "http://www.codewars.com/",
 		"desc": "Achieve code mastery through challenge. Designed to improve ability and brain performance, they also help strengthen your coding skills and technique."
+	}, {
+		"name": "Frontend Development Bookmarks",
+		"url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+		"desc": "A github document listing all the bookmarks required by front-end developers"
+	}, {
+		"name": "JavaScript Patterns Collection",
+		"url": "http://shichuan.github.io/javascript-patterns/",
+		"desc": "A collection of JS patterns and antipatterns that covers function patterns, jQuery patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns etc."
 	}]
 }

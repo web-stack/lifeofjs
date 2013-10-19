@@ -204,5 +204,10 @@
 		"url": "https://github.com/mozilla/pdf.js",
 		"source": "https://github.com/mozilla/pdf.js",
 		"desc": "PDF Reader in JavaScript"
+	}, {
+		"name": "FastClick",
+		"url": "http://ftlabs.github.io/fastclick/",
+		"source": "https://github.com/ftlabs/fastclick",
+		"desc": "Polyfill to remove click delays on browsers with touch UIs"
 	}]
 }

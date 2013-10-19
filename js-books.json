@@ -82,5 +82,10 @@
 		"name": "JavaScript Allonge [Ebook]",
 		"author": "Reginald Braithwaite",
 		"url": "https://leanpub.com/javascript-allonge"
+	}, {
+		"name": "JavaScript for PHP Developers",
+		"author": "Stoyan Stefanov",
+		"isbn": "978-1449320195",
+		"url": "http://books.google.co.in/books?id=QT56xKb-S3sC"
 	}]
 }
