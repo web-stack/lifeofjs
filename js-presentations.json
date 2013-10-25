@@ -25,5 +25,17 @@
 		"name": "Client-side MVC with Backbone.js",
 		"author": "Igloo Lab, Michele Bertoli",
 		"url": "http://www.slideshare.net/iloveigloo/clientside-mvc-with-backbonejs"
+	}, {
+		"name": "The jQuery Divide",
+		"author": "Rebecca Murphey",
+		"url": "http://www.slideshare.net/rmurphey/the-jquery-divide-5287573"
+	}, {
+		"name": "Maintainable JavaScript 2012",
+		"author": "Nicholas Zakas",
+		"url": "http://www.slideshare.net/nzakas/maintainable-javascript-2012"
+	}, {
+		"name": "Callbacks, Promises, and Coroutines (oh my!): Asynchronous Programming Patterns in JavaScript",
+		"author": "Domenic Denicola",
+		"url": "http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript"
 	}]
 }
