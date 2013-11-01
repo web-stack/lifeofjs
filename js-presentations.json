@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-presentations.json",
 	"type": "presentation",
 	"collection": [{
 		"name": "Extreme JavaScript Compression With YUI Compressor",
@@ -37,5 +38,9 @@
 		"name": "Callbacks, Promises, and Coroutines (oh my!): Asynchronous Programming Patterns in JavaScript",
 		"author": "Domenic Denicola",
 		"url": "http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript"
+	}, {
+		"name": "Automating Front-end Workflow",
+		"author": "Addy Osmani",
+		"url": "https://speakerdeck.com/addyosmani/automating-front-end-workflow"
 	}]
 }

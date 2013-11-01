@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-tools.json",
 	"type": "tool",
 	"collection": [{
 		"name": "Eclipse IDE",
@@ -49,5 +50,25 @@
 		"name": "Plato",
 		"url": "https://github.com/es-analysis/plato",
 		"desc": "JavaScript source code visualization, static analysis, and complexity tool"
+	}, {
+		"name": "Grunt",
+		"url": "http://gruntjs.com/",
+		"source": "https://github.com/gruntjs/grunt",
+		"desc": "The JavaScript Task Runner. Automate repetitive tasks like minification, compilation, unit testing, linting, etc."
+	}, {
+		"name": "Yeoman",
+		"url": "http://yeoman.io/",
+		"source": "http://github.com/yeoman/yeoman",
+		"desc": "A collection of tools and best practices working in harmony to make developing for the web even better"
+	}, {
+		"name": "Bower",
+		"url": "http://bower.io/",
+		"source": "https://github.com/bower/bower",
+		"desc": "A package manager for the web, created at Twitter"
+	}, {
+		"name": "RegExper",
+		"url": "http://www.regexper.com/",
+		"source": "https://github.com/javallone/regexper",
+		"desc": "Regular Expression Visualization Site"
 	}]
 }

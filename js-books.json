@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-books.json",
 	"type": "book",
 	"collection": [{
 		"name": "Professional JavaScript for Web Developers",
@@ -87,5 +88,10 @@
 		"author": "Stoyan Stefanov",
 		"isbn": "978-1449320195",
 		"url": "http://books.google.co.in/books?id=QT56xKb-S3sC"
+	}, {
+		"name": "Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript",
+		"author": "David Herman",
+		"isbn": "978-0321812186",
+		"url": "http://effectivejs.com/"
 	}]
 }

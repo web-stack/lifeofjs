@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-videos.json",
 	"type": "video",
 	"collection": [{
 		"name": "Getting Closure - Javascript",
@@ -41,5 +42,9 @@
 		"name": "1024+ Seconds of JS Wizardry -- JSConf EU 2013",
 		"speaker": "Martin Kleppe",
 		"url": "http://www.youtube.com/watch?v=RTxtiLp1C8Y"
+	}, {
+		"name": "Everything you never wanted to know about JavaScript numbers -- JSConf EU 2013",
+		"speaker": "Bartek Szopka",
+		"url": "http://www.youtube.com/watch?v=MqHDDtVYJRI"
 	}]
 }

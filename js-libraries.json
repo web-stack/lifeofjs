@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-libraries.json",
 	"type": "library",
 	"collection": [{
 		"name": "JQuery",
@@ -209,5 +210,10 @@
 		"url": "http://ftlabs.github.io/fastclick/",
 		"source": "https://github.com/ftlabs/fastclick",
 		"desc": "Polyfill to remove click delays on browsers with touch UIs"
+	}, {
+		"name": "Hammer.js",
+		"url": "http://eightmedia.github.io/hammer.js/",
+		"source": "https://github.com/EightMedia/hammer.js/",
+		"desc": "A JavaScript library for multi-touch gestures."
 	}]
 }

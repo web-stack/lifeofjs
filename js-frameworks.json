@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-frameworks.json",
 	"type": "framework",
 	"collection": [{
 		"name": "MooTools",

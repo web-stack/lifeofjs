@@ -1,5 +1,6 @@
 {
 	"source": "https://github.com/abhijeetkpawar/lifeofjs",
+	"name": "js-sites.json",
 	"type": "site",
 	"collection": [{
 		"name": "Move the Web Forward",
@@ -102,5 +103,9 @@
 		"name": "JavaScript Patterns Collection",
 		"url": "http://shichuan.github.io/javascript-patterns/",
 		"desc": "A collection of JS patterns and antipatterns that covers function patterns, jQuery patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns etc."
+	}, {
+		"name": "How do JavaScript closures work? (Stack-Overflow)",
+		"url": "http://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+		"desc": "Answers to a stack-overflow question mentioning a lot of good things about closures"
 	}]
 }
