@@ -5,7 +5,7 @@
 	"collection": [{
 		"name": "JQuery",
 		"url": "http://jquery.com/",
-		"source": "http://github.com/jquery/jquery"
+		"source": "https://github.com/jquery/jquery"
 	}, {
 		"name": "JQuery UI",
 		"url": "http://jqueryui.com/",
@@ -91,7 +91,7 @@
 	}, {
 		"name": "doT.js",
 		"url": "http://olado.github.io/doT/",
-		"source": "http://github.com/olado",
+		"source": "https://github.com/olado/doT",
 		"desc": "concise javascript template engine for Node.js and browsers",
 		"tags": "templating"
 	}, {
@@ -109,7 +109,7 @@
 	}, {
 		"name": "RequireJS",
 		"url": "http://requirejs.org/",
-		"source": "http://github.com/jrburke/requirejs",
+		"source": "https://github.com/jrburke/requirejs",
 		"desc": "A file and module loader for JavaScript"
 	}, {
 		"name": "Impress JS",
@@ -188,7 +188,7 @@
 	}, {
 		"name": "Three.js",
 		"url": "http://threejs.org/",
-		"source": "https://github.com/mrdoob/three.js/",
+		"source": "https://github.com/mrdoob/three.js",
 		"desc": "Lightweight 3D library with a very low level of complexity"
 	}, {
 		"name": "Q",

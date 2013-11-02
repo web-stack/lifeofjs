@@ -38,7 +38,7 @@
 	}, {
 		"name": "Batman",
 		"url": "http://batmanjs.org/",
-		"source": "https://github.com/Shopify/batman",
+		"source": "https://github.com/batmanjs/batman",
 		"desc": "A framework for building rich web applications with CoffeeScript. A client-side framework for Rails developers."
 	}, {
 		"name": "PhantomJS",
@@ -86,7 +86,6 @@
 	}, {
 		"name": "Ext JS",
 		"url": "http://www.sencha.com/products/extjs/",
-		"source": "https://github.com/bitovi/javascriptmvc",
 		"tags": "mvc,ui"
 	}]
 }
