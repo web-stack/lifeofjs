@@ -68,5 +68,10 @@
 		"url": "http://alexsexton.com/",
 		"feed": "http://feeds.feedburner.com/AlexSexton",
 		"twitterId": "SlexAxton"
+	},
+		"name": "JavaScript Jabber",
+		"url": "http://javascriptjabber.com",
+		"feed": "http://feeds.feedburner.com/JavascriptJabber",
+		"twitterId": "JSJabber"
 	}]
 }
