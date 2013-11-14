@@ -102,10 +102,26 @@
 	}, {
 		"name": "JavaScript Patterns Collection",
 		"url": "http://shichuan.github.io/javascript-patterns/",
-		"desc": "A collection of JS patterns and antipatterns that covers function patterns, jQuery patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns etc."
+		"desc": "A collection of JS patterns and anti-patterns that covers function patterns, jQuery patterns, design patterns, general patterns, literals and constructor patterns, object creation patterns, code reuse patterns etc."
 	}, {
 		"name": "How do JavaScript closures work? (Stack-Overflow)",
 		"url": "http://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
 		"desc": "Answers to a stack-overflow question mentioning a lot of good things about closures"
+	}, {
+		"name": "MicroJS",
+		"url": "http://microjs.com/",
+		"desc": "Fantastic micro-frameworks and micro-libraries for fun and profit"
+	}, {
+		"name": "Zeros in JS",
+		"url": "http://zero.milosz.ca/",
+		"desc": "The quirky behaviour of various falsey (and truthy) values in JavaScript"
+	}, {
+		"name": "altJS",
+		"url": "http://altjs.org/",
+		"desc": "The listing of alternatives to JavaScript as coding language that compile to JavaScript"
+	}, {
+		"name": "JavaScript Style Guide by Airbnb",
+		"url": "https://github.com/airbnb/javascript",
+		"desc": "JavaScript Style Guide shared on GitHub"
 	}]
 }
