@@ -73,5 +73,14 @@
 		"url": "http://javascriptjabber.com",
 		"feed": "http://feeds.feedburner.com/JavascriptJabber",
 		"twitterId": "JSJabber"
+	}, {
+		"name": "2ality - JavaScript and more",
+		"url": "http://www.2ality.com/",
+		"feed": "http://feeds.feedburner.com/2ality",
+		"twitterId": "rauschma"
+	}, {
+		"name": "A Drip of JavaScript",
+		"url": "http://designpepper.com/a-drip-of-javascript",
+		"desc": "One quick JavaScript tip, delivered to your inbox weekly"
 	}]
 }
