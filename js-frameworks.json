@@ -87,5 +87,10 @@
 		"name": "Ext JS",
 		"url": "http://www.sencha.com/products/extjs/",
 		"tags": "mvc,ui"
+	}, {
+		"name": "DHTMLX",
+		"url": "http://www.dhtmlx.com/",
+		"desc": "Collection of JavaScript UI widgets for building rich web apps",
+		"tags": "ui"
 	}]
 }
