@@ -6,7 +6,7 @@
 "Life of JS" is the source for all types of awesome resources available for JavaScript. 
 This includes books, presentations, videos, feeds, sites, libraries, frameworks and tools.
 Very basic but identifying information about each resources is provided.
-The collection does not contain all the resources but only useful/awesome/innovative/interesting of them.
+The collection does not contain all the resources but only useful / awesome / innovative / interesting of them.
 
 The resources are categorized into 'json' files based on type. So there are 8 json files in total.
 
@@ -64,8 +64,8 @@ Every resource can have properties as listed below.
 
 #### Books: `js-books.json` ####
 
-* name: full title of the book
-* author: author(s) of the book
+* name: full title of the book in format <title: subtitle>, mention [Online/Ebook] if book is not available as hard copy
+* author: author(s) of the book (comma-separated list)
 * isbn: 13 digit ISBN number of the book
 * url: official site of the book OR page where information about the book can be obtained
 * tags: tags to categorize the Book.
@@ -74,7 +74,7 @@ Every resource can have properties as listed below.
 #### Presentations: `js-presentations.json` ####
 
 * name: full title of the presentation.
-* author: author(s) of the presentation
+* author: author(s) of the presentation (comma-separated list)
 * url: url of the presentation
 * tags: tags to categorize the presentation.
 
@@ -82,7 +82,7 @@ Every resource can have properties as listed below.
 #### Videos: `js-videos.json` ####
 
 * name: title of the video
-* speaker: speaker(s) of the video (commas separated list)
+* speaker: speaker(s) of the video (comma-separated list)
 * url: url of the video
 * tags: tags to categorize the video.
 
@@ -93,6 +93,7 @@ A site with a good knowledge-base or articles around JavaScript and related cont
 
 * name: title of the web site
 * url: url of the web site
+* desc: short description of the site / page
 * tags: tags to categorize the site.
 
 
@@ -114,7 +115,7 @@ A collection of frameworks that give a substantial stage to build js apps on.
 * name: name of the framework
 * url: official web site which gives information about the framework
 * source: path to the source code of the framework
-* desc: a short description of the framework
+* desc: short description of the framework
 * tags: tags to categorize the framework.
 
 
@@ -123,13 +124,13 @@ A collection of frameworks that give a substantial stage to build js apps on.
 * name: name of the library or plug-in
 * url: official web site which gives information about the library or plug-in
 * source: path to the source code of the library or plug-in
-* desc: a short description of library
+* desc: short description of library
 * tags: tags to categorize the library or plug-in.
 
 
 #### Tools: `js-tools.json` ####
 
-A collection of tools/applications/browser-addons/IDEs to make the JavaScript development better.
+A collection of tools / applications / browser-addons / IDEs to make the JavaScript development better.
 
 * name: name of the tool
 * url: web site which provides the tool
