@@ -64,7 +64,7 @@ Every resource can have properties as listed below.
 
 #### Books: `js-books.json` ####
 
-* name: full title of the book in format <title: subtitle>, mention [Online/Ebook] if book is not available as hard copy
+* name: full title of the book in format `title: subtitle`, mention `Online / Ebook` if book is not available as hard copy
 * author: author(s) of the book (comma-separated list)
 * isbn: 13 digit ISBN number of the book
 * url: official site of the book OR page where information about the book can be obtained
