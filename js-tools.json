@@ -70,5 +70,10 @@
 		"url": "http://www.regexper.com/",
 		"source": "https://github.com/javallone/regexper",
 		"desc": "Regular Expression Visualization Site"
+	}, {
+		"name": "UglifyJS",
+		"url": "http://lisperator.net/uglifyjs/",
+		"source": "https://github.com/mishoo/UglifyJS2/",
+		"desc": "JavaScript parser / mangler / compressor / beautifier library for NodeJS"
 	}]
 }
