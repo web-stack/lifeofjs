@@ -75,5 +75,20 @@
 		"url": "http://lisperator.net/uglifyjs/",
 		"source": "https://github.com/mishoo/UglifyJS2/",
 		"desc": "JavaScript parser / mangler / compressor / beautifier library for NodeJS"
+	}, {
+		"name": "YUIDoc",
+		"url": "http://yui.github.io/yuidoc/",
+		"source": "https://github.com/yui/yuidoc",
+		"desc": "A Node.js application that generates API documentation from comments in source"
+	}, {
+		"name": "JSDoc",
+		"url": "http://usejsdoc.org",
+		"source": "https://github.com/jsdoc3/jsdoc",
+		"desc": "An API documentation generator for JavaScript."
+	}, {
+		"name": "Docco",
+		"url": "http://jashkenas.github.io/docco/",
+		"source": "https://github.com/jashkenas/docco",
+		"desc": "A quick-and-dirty documentation generator, written in Literate CoffeeScript"
 	}]
 }
