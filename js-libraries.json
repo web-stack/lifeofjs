@@ -131,7 +131,7 @@
 		"source": "https://github.com/jpillora/xdomain",
 		"desc": "A pure JavaScript CORS alternative"
 	}, {
-		"name": "Esprimo",
+		"name": "Esprima",
 		"url": "http://esprima.org/",
 		"source": "https://github.com/ariya/esprima",
 		"desc": "ECMAScript parsing infrastructure for multipurpose analysis"
@@ -215,5 +215,10 @@
 		"url": "http://eightmedia.github.io/hammer.js/",
 		"source": "https://github.com/EightMedia/hammer.js/",
 		"desc": "A JavaScript library for multi-touch gestures."
+	}, {
+		"name": "Chart.js",
+		"url": "http://www.chartjs.org/",
+		"source": "https://github.com/nnnick/Chart.js",
+		"desc": "Easy, object oriented client side HTML5 Charts (using the <canvas> tag) for designers and developers"
 	}]
 }
