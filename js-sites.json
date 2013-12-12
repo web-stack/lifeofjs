@@ -123,5 +123,12 @@
 		"name": "JavaScript Style Guide by Airbnb",
 		"url": "https://github.com/airbnb/javascript",
 		"desc": "JavaScript Style Guide shared on GitHub"
+	}, {
+		"name": "EmberWatch",
+		"url": "http://emberwatch.com/",
+		"desc": "Collection of resources for learning Ember.js including videos, talks, slides, tutorials, posts and screen-casts"
+	}, {
+		"name": "An Introduction To Full-Stack JavaScript",
+		"url": "http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript/"
 	}]
 }
