@@ -5,11 +5,13 @@
 	"collection": [{
 		"name": "Professional JavaScript for Web Developers",
 		"author": "Nicholas C. Zakas",
-		"isbn": "978-1118026694"
+		"isbn": "978-1118026694",
+		"url": "http://books.google.co.in/books?id=C3kabcBG0ZsC"
 	}, {
 		"name": "JavaScript Patterns",
 		"author": "Stoyan Stefanov",
-		"isbn": "978-0596806750"
+		"isbn": "978-0596806750",
+		"url": "http://books.google.co.in/books?id=WTZqecc9olUC"
 	}, {
 		"name": "JavaScript: The Definitive Guide",
 		"author": "David Flanagan",
