@@ -90,5 +90,13 @@
 		"url": "http://jashkenas.github.io/docco/",
 		"source": "https://github.com/jashkenas/docco",
 		"desc": "A quick-and-dirty documentation generator, written in Literate CoffeeScript"
+	}, {
+		"name": "WebStorm",
+		"url": "http://www.jetbrains.com/webstorm/",
+		"desc": "JavaScript IDE with refactorings, code completion and on-the-fly code analysis"
+	}, {
+		"name": "WAVE - Web Accessibility Evaluation Tool",
+		"url": "http://wave.webaim.org/",
+		"desc": "A tool to check accessibility of web pages"
 	}]
 }
