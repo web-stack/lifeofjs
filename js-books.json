@@ -3,6 +3,11 @@
 	"name": "js-books.json",
 	"type": "book",
 	"collection": [{
+		"name": "Maintainable JavaScript - Writing Readable Code",
+		"author": "Nicholas C. Zakas",
+		"isbn": "978-1449327682",
+		"url": "http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680"		
+	}, {
 		"name": "Professional JavaScript for Web Developers",
 		"author": "Nicholas C. Zakas",
 		"isbn": "978-1118026694",
