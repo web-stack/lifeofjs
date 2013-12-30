@@ -3,6 +3,11 @@
 	"name": "js-feeds.json",
 	"type": "feed",
 	"collection": [{
+		"name": "Nicholas Zakas Blog",
+		"url": "http://www.nczonline.net/",
+		"feed": "http://feeds.feedburner.com/nczonline",
+		"twitterId": "slicknet"
+	},{
 		"name": "The David Walsh Blog",
 		"url": "http://davidwalsh.name/",
 		"feed": "http://davidwalsh.name/feed",
