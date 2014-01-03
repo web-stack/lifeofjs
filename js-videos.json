@@ -3,6 +3,10 @@
 	"name": "js-videos.json",
 	"type": "video",
 	"collection": [{
+		"name": "Scalable JavaScript Application Architecture",
+		"speaker": "Nicholas Zakas",
+		"url": "http://www.youtube.com/watch?v=vXjVFPosQHw"
+	}, {
 		"name": "Getting Closure - Javascript",
 		"speaker": "Mark Dalgleish",
 		"url": "http://www.youtube.com/watch?v=KRm-h6vcpxs"
