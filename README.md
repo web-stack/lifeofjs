@@ -6,7 +6,7 @@
 "Life of JS" is the source for all types of awesome resources available for JavaScript. 
 This includes books, presentations, videos, feeds, sites, libraries, frameworks and tools.
 Very basic but identifying information about each resources is provided.
-The collection does not contain all the resources but only useful / awesome / innovative / interesting of them.
+The collection is evolving regularly and contains useful / awesome / innovative / interesting resources.
 
 The resources are categorized into 'json' files based on type. So there are 8 json files in total.
 
@@ -37,8 +37,8 @@ Implementation: [http://lifeofjs.com](http://www.lifeofjs.com)
 
 JavaScript language is evolving at large in recent time.
 There are countless number of libraries for specific aspects in web programming to handle very specific needs.
-People write great articles about existing and also upcoming features in JavaScript. 
-And also write books give detailed and very acute knowledge.
+People write great articles about existing and upcoming features in JavaScript. 
+And also write books to give detailed and very acute knowledge.
 There are tools to give the lightening speed to development
 
 This repository is started with the intention to link all these awesome things about JavaScript at one place. 
