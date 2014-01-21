@@ -86,6 +86,12 @@
 	}, {
 		"name": "Ext JS",
 		"url": "http://www.sencha.com/products/extjs/",
+		"desc": "JavaScript Framework for Rich Desktop Web Apps",
 		"tags": "mvc,ui"
+	}, {
+		"name": "Express JS",
+		"url": "http://expressjs.com/",
+		"source": "https://github.com/visionmedia/express",
+		"desc": "Web application framework for node (Sinatra inspired)"
 	}]
 }
