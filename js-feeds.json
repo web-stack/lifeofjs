@@ -87,5 +87,23 @@
 		"name": "A Drip of JavaScript",
 		"url": "http://designpepper.com/a-drip-of-javascript",
 		"desc": "One quick JavaScript tip, delivered to your inbox weekly"
-	}]
+	},{
+        "name": "Nick Fitzgerald",
+        "desc": "Nick Fitzgerald's weblog",
+        "url": "http://fitzgeraldnick.com/weblog/",
+        "feed": "http://fitzgeraldnick.com/weblog/feeds/latest-atom/",
+        "twitterId": "fitzgen"
+    }, {
+        "name": "CreativeJS",
+        "desc": "The very best of creative JavaScript and HTML5",
+        "url": "http://creativejs.com",
+        "feed": "http://creativejs.com/feed/",
+        "twitterId": "creativejs"
+    }, {
+        "name": "don't code today what you can't debug tomorrow",
+        "desc": "Ariya Hidayat's weblog",
+        "url": "http://ariya.ofilabs.com",
+        "feed": "http://ariya.ofilabs.com/feed",
+        "twitterId": "ariyahidayat"
+    }]
 }
