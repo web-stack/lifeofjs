@@ -98,5 +98,20 @@
 		"name": "WAVE - Web Accessibility Evaluation Tool",
 		"url": "http://wave.webaim.org/",
 		"desc": "A tool to check accessibility of web pages"
+	}, {
+		"name": "Gulp.js",
+		"url": "http://gulpjs.com/",
+		"source": "https://github.com/gulpjs/gulp",
+		"desc": "The streaming build system"
+	}, {
+		"name": "Brackets (code editor)",
+		"url": "http://brackets.io/",
+		"source": "https://github.com/adobe/brackets.git",
+		"desc": "An open source code editor for HTML, CSS and JavaScript written in JavaScript, HTML and CSS"
+	}, {
+		"name": "Emscripten",
+		"url": "http://emscripten.org",
+		"source": "https://github.com/kripken/emscripten",
+		"desc": "An LLVM-to-JavaScript compiler. It takes LLVM bitcode - which can be generated from C/C++ or any other language that can be converted into LLVM - and compiles that into JavaScript"
 	}]
 }
