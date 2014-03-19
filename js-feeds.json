@@ -3,6 +3,11 @@
 	"name": "js-feeds.json",
 	"type": "feed",
 	"collection": [{
+		"name": "Angus Croll",
+		"url": "http://javascriptweblog.wordpress.com/",
+		"feed": "http://feeds.feedburner.com/JavascriptJavascript",
+		"twitterId": "angustweets"
+	},{
 		"name": "Nicholas Zakas Blog",
 		"url": "http://www.nczonline.net/",
 		"feed": "http://feeds.feedburner.com/nczonline",
