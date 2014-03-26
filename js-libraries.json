@@ -220,5 +220,30 @@
 		"url": "http://www.chartjs.org/",
 		"source": "https://github.com/nnnick/Chart.js",
 		"desc": "Easy, object oriented client side HTML5 Charts (using the <canvas> tag) for designers and developers"
+	}, {
+		"name": "CryptoJS",
+		"url": "https://code.google.com/p/crypto-js/",
+		"source": "https://code.google.com/p/crypto-js/source/checkout",
+		"desc": "A growing collection of standard and secure cryptographic algorithms implemented in JavaScript"
+	}, {
+		"name": "Passport JS",
+		"url": "http://passportjs.org/",
+		"source": "https://github.com/jaredhanson/passport",
+		"desc": "Simple, unobtrusive, Express-compatible authentication middleware for Node.js."
+	}, {
+		"name": "DropzoneJS",
+		"url": "http://www.dropzonejs.com/",
+		"source": "https://github.com/enyo/dropzone",
+		"desc": "Open source library that provides drag-n-drop file uploads with image previews"
+	}, {
+		"name": "Sweet.js",
+		"url": "http://sweetjs.org/",
+		"source": "https://github.com/mozilla/sweet.js",
+		"desc": "Brings the macros of languages like Scheme and Rust to JavaScript. Macros allows to sweeten the syntax of JavaScript and craft the language as required"
+	}, {
+		"name": "Intro.js",
+		"url": "http://usablica.github.com/intro.js/",
+		"source": "https://github.com/usablica/intro.js",
+		"desc": "A library to provide introductions for websites and features with a step-by-step guide."
 	}]
 }
