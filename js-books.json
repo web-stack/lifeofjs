@@ -3,6 +3,11 @@
 	"name": "js-books.json",
 	"type": "book",
 	"collection": [{
+		"name": "Functional JavaScript: Introducing Functional Programming with Underscore.js",
+		"author": "Michael Fogus",
+		"isbn": "978-1449360726",
+		"url": "http://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726"
+	},{
 		"name": "Maintainable JavaScript - Writing Readable Code",
 		"author": "Nicholas C. Zakas",
 		"isbn": "978-1449327682",
