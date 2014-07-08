@@ -113,10 +113,5 @@
 		"url": "http://emscripten.org",
 		"source": "https://github.com/kripken/emscripten",
 		"desc": "An LLVM-to-JavaScript compiler. It takes LLVM bitcode - which can be generated from C/C++ or any other language that can be converted into LLVM - and compiles that into JavaScript"
-	}, {
-        "name": "Component",
-        "url": "component.io",
-        "source": "https://github.com/component/component",
-        "desc": "A vertically integrated front-end solution, handling everything from package management to the build process for HTML, JS, CSS, images, and fonts"
-    }]
+	}]
 }
