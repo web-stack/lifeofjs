@@ -245,5 +245,10 @@
 		"url": "http://usablica.github.com/intro.js/",
 		"source": "https://github.com/usablica/intro.js",
 		"desc": "A library to provide introductions for websites and features with a step-by-step guide."
+	}, {
+		"name": "Brain - Neural networks",
+		"url": "http://harthur.github.io/brain/",
+		"source": "https://github.com/harthur/brain",
+		"desc": "A neural network library in JavaScript"
 	}]
 }
