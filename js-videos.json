@@ -54,5 +54,9 @@
 		"name": "Everything you never wanted to know about JavaScript numbers -- JSConf EU 2013",
 		"speaker": "Bartek Szopka",
 		"url": "http://www.youtube.com/watch?v=MqHDDtVYJRI"
+	}, {
+		"name": "Help, I'm stuck in an event-loop",
+		"speaker": "Philip Roberts",
+		"url": "http://vimeo.com/96425312"
 	}]
 }
