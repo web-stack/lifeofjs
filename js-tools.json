@@ -21,7 +21,8 @@
 	}, {
 		"name": "JSApp.US",
 		"url": "http://jsapp.us/",
-		"desc": "A node.js Hosting Provider (Similar to jsfiddle for Node.js programs)"
+		"desc": "A node.js Hosting Provider (Similar to jsfiddle for Node.js programs)",
+		"deprecated": true
 	}, {
 		"name": "Visual Event",
 		"url": "http://www.sprymedia.co.uk/article/visual+event+2",
@@ -29,7 +30,8 @@
 	}, {
 		"name": "Firebug - Firefox addon for debugging",
 		"url": "https://getfirebug.com/",
-		"desc": "Web development and debugging tool"
+		"desc": "Web development and debugging tool",
+		"deprecated": true
 	}, {
 		"name": "JSLint",
 		"url": "http://www.jslint.com/",

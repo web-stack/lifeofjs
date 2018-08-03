@@ -3,19 +3,15 @@
 	"name": "js-frameworks.json",
 	"type": "framework",
 	"collection": [{
-		"name": "MooTools",
-		"url": "http://mootools.net/",
-		"source": "https://github.com/mootools/mootools-core",
-		"desc": "A compact, modular, Object-Oriented JavaScript framework"
-	}, {
-		"name": "DOJO Toolkit",
-		"url": "http://dojotoolkit.org/",
-		"source": "https://github.com/dojo/dojo"
+		"name": "DOJO",
+		"url": "https://dojo.io/",
+		"source": "https://github.com/dojo/framework"
 	}, {
 		"name": "YUI",
 		"url": "http://yuilibrary.com/",
 		"source": "https://github.com/yui/yui3",
-		"desc": "A library for building richly interactive web applications"
+		"desc": "A library for building richly interactive web applications",
+		"deprecated": true
 	}, {
 		"name": "Node JS",
 		"url": "http://nodejs.org/",
@@ -39,7 +35,8 @@
 		"name": "Batman",
 		"url": "http://batmanjs.org/",
 		"source": "https://github.com/batmanjs/batman",
-		"desc": "A framework for building rich web applications with CoffeeScript. A client-side framework for Rails developers."
+		"desc": "A framework for building rich web applications with CoffeeScript. A client-side framework for Rails developers.",
+		"deprecated": true
 	}, {
 		"name": "PhantomJS",
 		"url": "https://github.com/ariya/phantomjs/",
@@ -48,14 +45,14 @@
 		"tags": "testing"
 	}, {
 		"name": "Jasmine",
-		"url": "http://pivotal.github.io/jasmine/",
-		"source": "https://github.com/pivotal/jasmine",
+		"url": "https://jasmine.github.io/",
+		"source": "https://github.com/jasmine/jasmine",
 		"desc": "Behavior Driven Development(BDD) testing framework",
 		"tags": "testing"
 	}, {
 		"name": "Mocha",
-		"url": "http://visionmedia.github.io/mocha/",
-		"source": "https://github.com/visionmedia/mocha",
+		"url": "https://mochajs.org/",
+		"source": "https://github.com/mochajs/mocha",
 		"desc": "Simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)",
 		"tags": "testing"
 	}, {
@@ -70,7 +67,7 @@
 		"desc": "Web Application Framework in JavaScript and Objective-J"
 	}, {
 		"name": "Tower.js",
-		"url": "http://towerjs.org/",
+		"url": "http://tower.github.io/",
 		"source": "https://github.com/tower/tower",
 		"desc": "Full Stack Web Framework for Node.js and the Browser"
 	}, {
@@ -82,7 +79,8 @@
 		"name": "JavaScriptMVC",
 		"url": "http://javascriptmvc.com/",
 		"source": "https://github.com/bitovi/javascriptmvc",
-		"tags": "mvc"
+		"tags": "mvc",
+		"deprecated": true
 	}, {
 		"name": "Ext JS",
 		"url": "http://www.sencha.com/products/extjs/",
@@ -98,5 +96,10 @@
 		"url": "http://www.dhtmlx.com/",
 		"desc": "Collection of JavaScript UI widgets for building rich web apps",
 		"tags": "ui"
+	}, {
+		"name": "Done JS",
+		"url": "https://donejs.com/",
+		"source": "https://github.com/donejs/donejs/",
+		"tags": "mvc"
 	}]
 }

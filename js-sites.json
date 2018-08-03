@@ -11,12 +11,9 @@
 		"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
 		"desc": "Documentation on JavaScript by Mozilla Development Network"
 	}, {
-		"name": "Javacript Questions | Stack Overflow",
-		"url": "http://stackoverflow.com/questions/tagged/javascript",
-		"desc": "Widely used and community maintained question-answer forum"
-	}, {
 		"name": "Crockford on JavaScript: A Public Lecture Series at Yahoo!",
-		"url": "http://www.yuiblog.com/crockford/"
+		"url": "http://www.yuiblog.com/crockford/",
+		"deprecated": true
 	}, {
 		"name": "Principles of Writing Consistent, Idiomatic JavaScript",
 		"url": "https://github.com/rwaldron/idiomatic.js/",
@@ -29,7 +26,8 @@
 		"url": "http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js"
 	}, {
 		"name": "Node: References and Resources",
-		"url": "http://tech.burningbird.net/article/node-references-and-resources"
+		"url": "http://tech.burningbird.net/article/node-references-and-resources",
+		"deprecated": true
 	}, {
 		"name": "Template Engine Chooser",
 		"url": "http://garann.github.io/template-chooser/"
@@ -45,7 +43,8 @@
 	}, {
 		"name": "Pineapple - Web tutorials and resources",
 		"url": "http://pineapple.io/tags/javascript",
-		"desc": "Hub of Tutorials, Tools and Assets for developers and designers"
+		"desc": "Hub of Tutorials, Tools and Assets for developers and designers",
+		"deprecated": true
 	}, {
 		"name": "Standard ECMA-262",
 		"url": "http://www.ecma-international.org/publications/standards/Ecma-262.htm",
@@ -60,7 +59,7 @@
 		"desc": "Helping you select an MV* framework"
 	}, {
 		"name": "Differences Between jQuery .bind() vs .live() vs .delegate() vs .on()",
-		"url": "http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html"
+		"url": "http://elijahmanor.com/differences-between-jquery-bind-vs-live-vs-delegate-vs-on/"
 	}, {
 		"name": "ECMAScript 5 compatibility table",
 		"url": "http://kangax.github.io/es5-compat-table/"
@@ -83,10 +82,12 @@
 		"url": "http://www.javascriptoo.com/"
 	}, {
 		"name": "JSDB.io - The Database of JavaScript Libraries",
-		"url": "http://www.jsdb.io/"
+		"url": "http://www.jsdb.io/",
+		"deprecated": true
 	}, {
 		"name": "Custom Elements - A Web Components Gallery for Modern Web Apps",
-		"url": "http://customelements.io/"
+		"url": "http://customelements.io/",
+		"deprecated": true
 	}, {
 		"name": "The Toolbox",
 		"url": "http://thetoolbox.cc/",
@@ -118,7 +119,8 @@
 	}, {
 		"name": "altJS",
 		"url": "http://altjs.org/",
-		"desc": "The listing of alternatives to JavaScript as coding language that compile to JavaScript"
+		"desc": "The listing of alternatives to JavaScript as coding language that compile to JavaScript",
+		"deprecated": true
 	}, {
 		"name": "JavaScript Style Guide by Airbnb",
 		"url": "https://github.com/airbnb/javascript",
