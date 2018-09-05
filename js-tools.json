@@ -66,7 +66,8 @@
 		"name": "Bower",
 		"url": "http://bower.io/",
 		"source": "https://github.com/bower/bower",
-		"desc": "A package manager for the web, created at Twitter"
+		"desc": "A package manager for the web, created at Twitter",
+		"deprecated": true
 	}, {
 		"name": "RegExper",
 		"url": "http://www.regexper.com/",
@@ -115,5 +116,20 @@
 		"url": "http://emscripten.org",
 		"source": "https://github.com/kripken/emscripten",
 		"desc": "An LLVM-to-JavaScript compiler. It takes LLVM bitcode - which can be generated from C/C++ or any other language that can be converted into LLVM - and compiles that into JavaScript"
+	}, {
+		"name": "Storybook",
+		"url": "https://storybook.js.org/",
+		"source": "https://github.com/storybooks/storybook",
+		"desc": "Interactive UI component dev & test"
+	}, {
+		"name": "Parcel",
+		"url": "https://parceljs.org/",
+		"source": "https://github.com/parcel-bundler/parcel",
+		"desc": "Blazing fast, zero configuration web application bundler"
+	}, {
+		"name": "Webpack",
+		"url": "https://webpack.js.org/",
+		"source": "https://github.com/webpack/webpack",
+		"desc": "A bundler for javascript. Packs many modules into a few bundled assets."
 	}]
 }

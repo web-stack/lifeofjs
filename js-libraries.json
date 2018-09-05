@@ -255,5 +255,15 @@
 		"url": "http://mootools.net/",
 		"source": "https://github.com/mootools/mootools-core",
 		"desc": "A compact, modular, Object-Oriented JavaScript framework"
+	}, {
+		"name": "React",
+		"url": "https://reactjs.org/",
+		"source": "https://github.com/facebook/react",
+		"desc": "A JavaScript library for building user interfaces"
+	}, {
+		"name": "Day JS",
+		"url": "https://github.com/iamkun/dayjs",
+		"source": "https://github.com/iamkun/dayjs",
+		"desc": "2KB immutable date library alternative to Moment.js with the same modern API"
 	}]
 }

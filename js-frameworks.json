@@ -101,5 +101,15 @@
 		"url": "https://donejs.com/",
 		"source": "https://github.com/donejs/donejs/",
 		"tags": "mvc"
+	}, {
+		"name": "Angular",
+		"url": "https://angular.io/",
+		"source": "https://github.com/angular/angular",
+		"desc": "TypeScript-based open-source front-end web application platform for mobile and web"
+	}, {
+		"name": "Vue.js",
+		"url": "https://vuejs.org/",
+		"source": "https://github.com/vuejs/vue",
+		"desc": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web"
 	}]
 }
