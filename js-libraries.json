@@ -265,5 +265,10 @@
 		"url": "https://github.com/iamkun/dayjs",
 		"source": "https://github.com/iamkun/dayjs",
 		"desc": "2KB immutable date library alternative to Moment.js with the same modern API"
+	}, {
+		"name": "Blueprint",
+		"url": "https://blueprintjs.com/",
+		"source": "https://github.com/palantir/blueprint",
+		"desc": "A React-based UI toolkit for the web"
 	}]
 }
