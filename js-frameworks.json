@@ -15,7 +15,7 @@
 	}, {
 		"name": "Node JS",
 		"url": "http://nodejs.org/",
-		"source": "https://github.com/joyent/node"
+		"source": "https://github.com/nodejs/node"
 	}, {
 		"name": "AngularJS",
 		"url": "http://angularjs.org/",
